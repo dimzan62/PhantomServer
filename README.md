@@ -6,7 +6,7 @@
 ## Credits
 | Name | Contributions |
 | --------------- | ----------- |
-| [DimZan]((https://github.com/dimzan62/) | Creator |
+| [DimZan](https://github.com/dimzan62/) | Creator |
 
 ## Features:
 
