@@ -68,9 +68,9 @@
 - Leaderboards (v1)
 - Configurable backend sided in-game events - check out the Events seciton in config.ini for more details
 - Joining gameservers using the matchmaker - check out the GameServer seciton in config.ini for more details
-##### * Included in the [LawinServer Addon](https://github.com/PRO100KatYT/LawinServerAddon). To install it, merge its `public` folder with the one in your LawinServer folder. [(Direct download link)](https://github.com/PRO100KatYT/LawinServerAddon/archive/refs/heads/main.zip)
+##### * Included in the [PhantomServer Addon](https://github.com/dimzan62/PhantomServerAddon). To install it, merge its `public` folder with the one in your PhantomServer folder. [(Direct download link)](https://github.com/dimzan62/PhantomServerAddon/archive/refs/heads/main.zip)
 
-## How to host/use LawinServer
+## How to host/use PhantomServer
 1) Install [NodeJS](https://nodejs.org/en/)
 2) Run "install_packages.bat" (This file isn't required after the packages are installed.)
 3) Run "start.bat", It should say "Started listening on port 3551"
