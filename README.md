@@ -1,7 +1,4 @@
-<div align=center>
-  <img src="https://i.ibb.co/Bcj3VXm/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3932373733393930313534.png" alt="LawinServer Logo">
-
-  ### LawinServer is a private server that supports all Fortnite versions!
+  ### PhantomServer is a private server that supports all Fortnite versions!
   
 </div>
 <br>
@@ -9,8 +6,7 @@
 ## Credits
 | Name | Contributions |
 | --------------- | ----------- |
-| [Lawin](https://github.com/Lawin0129) | Creator |
-| [PRO100KatYT](https://github.com/PRO100KatYT) | Contributor & Maintainer |
+| [DimZan]((https://github.com/dimzan62/) | Creator |
 
 ## Features:
 
