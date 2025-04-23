@@ -1,16 +1,9 @@
-<div align=center>
-  <img src="https://i.ibb.co/Bcj3VXm/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3932373733393930313534.png" alt="LawinServer Logo">
-
-  ### LawinServer is a private server that supports all Fortnite versions!
-  
-</div>
-<br>
+### PhantomServer is a private server that supports all Fortnite versions!
 
 ## Credits
-| Name | Contributions |
+| Name |
 | --------------- | ----------- |
-| [Lawin](https://github.com/Lawin0129) | Creator |
-| [PRO100KatYT](https://github.com/PRO100KatYT) | Contributor & Maintainer |
+| [Dim1z](https://github.com/dim1z35) | Creator |
 
 ## Features:
 
@@ -72,9 +65,9 @@
 - Leaderboards (v1)
 - Configurable backend sided in-game events - check out the Events seciton in config.ini for more details
 - Joining gameservers using the matchmaker - check out the GameServer seciton in config.ini for more details
-##### * Included in the [LawinServer Addon](https://github.com/PRO100KatYT/LawinServerAddon). To install it, merge its `public` folder with the one in your LawinServer folder. [(Direct download link)](https://github.com/PRO100KatYT/LawinServerAddon/archive/refs/heads/main.zip)
+##### * Included in the [LawinServer Addon](https://github.com/dim1z35/Phantom_ServerAddon). To install it, merge its `public` folder with the one in your LawinServer folder. [(Direct download link)](https://github.com/dim1z35/Phantom_ServerAddon/archive/refs/heads/main.zip)
 
-## How to host/use LawinServer
+## How to host/use PhantomServer
 1) Install [NodeJS](https://nodejs.org/en/)
 2) Run "install_packages.bat" (This file isn't required after the packages are installed.)
 3) Run "start.bat", It should say "Started listening on port 3551"
